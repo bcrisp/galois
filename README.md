@@ -1,6 +1,6 @@
-# REST Graph
+# Galois
 
-[![Build Status](https://travis-ci.com/bcrisp/RESTgraph.svg?token=CxsDwVKqVE1qQQyDQsta&branch=master)](https://travis-ci.com/bcrisp/RESTgraph)
+[![Build Status](https://travis-ci.org/bcrisp/galois.svg?branch=master)](https://travis-ci.org/bcrisp/galois)
 
 ## REST APIs map to algebraic structures
 
